@@ -36,6 +36,10 @@
   <a href="https://jeironpro.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-00A98F?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portafolio"/></a>
 </p>
 
+### 📌 [NOTA]
+> Mucho de los repositorios en este GitHub no tienen un mejor historial ya que no tenía conocimiento sobre la transferencia de propiedad.  
+> Como anteriormente tenía otra cuenta de GitHub, al eliminarla he tenido que crear los repositorios nuevamente aquí.
+
 ---
 
 <p align="center">
