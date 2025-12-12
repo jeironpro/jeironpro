@@ -22,10 +22,6 @@
   <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=jeironpro&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeironpro&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ### 🔗 Mis redes y portafolio
@@ -33,7 +29,6 @@
   <a href="https://instagram.com/jeironpro" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://linkedin.com/in/jeironespinal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/jeironpro" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://jeironpro.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-00A98F?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portafolio"/></a>
 </p>
 
 ### 📌 [NOTA]
