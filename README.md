@@ -12,7 +12,7 @@
 
 ### 🌟 Habiilidades  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,django,fastapi,java,mysql,git,docker,githubactions,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,django,fastapi,java,mysql,git,docker,githubactions,react," />
 </p>
 
 ---
