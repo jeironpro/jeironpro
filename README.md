@@ -34,7 +34,7 @@
 ### 📌 [NOTA]
 > Mucho de los repositorios en este GitHub no tienen un mejor historial ya que no tenía conocimiento sobre la transferencia de propiedad.  
 > Como anteriormente tenía otra cuenta de GitHub, al eliminarla he tenido que crear los repositorios nuevamente aquí.
-> Todos los repositorios se suben automaticamente mediante el sistema [repo crafter - PyJa](https://github.com/jeironpro/repo-crafter-pyja) que gestiona mis repositorios.  
+> Todos los repositorios se suben automaticamente mediante el sistema [repo crafter](https://github.com/jeironpro/repo-crafter) que gestiona mis repositorios.  
 > PyJa es un secreto (🔜) 🤫.  
 
 ---
