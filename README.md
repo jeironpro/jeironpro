@@ -31,7 +31,7 @@
   <a href="https://threads.com/jeironpro" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
 </p>
 
-### 📌 [NOTA]
+### [NOTA]
 > Mucho de los repositorios en este GitHub no tienen un mejor historial ya que no tenía conocimiento sobre la transferencia de propiedad.  
 > Como anteriormente tenía otra cuenta de GitHub, al eliminarla he tenido que crear los repositorios nuevamente aquí.
 > Todos los repositorios se suben automaticamente mediante el sistema [repo crafter](https://github.com/jeironpro/repo-crafter) que gestiona mis repositorios.  
