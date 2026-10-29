@@ -132,7 +132,8 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
 - [repo-crafter](https://github.com/jeironpro/repo-crafter) · repositorio actualizado · 25 sep
 <!-- ACTIVIDAD:FIN -->
 
-<p><sub>Actualizado automáticamente con GitHub Actions.</sub>&nbsp; <a href="https://github.com/jeironpro/jeironpro/actions/workflows/actualizar-perfil.yml"><img src="https://img.shields.io/github/actions/workflow/status/jeironpro/jeironpro/actualizar-perfil.yml?branch=main&style=flat-square&label=perfil&labelColor=0D1117" alt="Estado de la actualización automática" /></a></p>
+<p><sub>Actualizado automáticamente con GitHub Actions.</sub>&nbsp;
+<a href="https://github.com/jeironpro/jeironpro/actions/workflows/actualizar-perfil.yml"><img src="https://img.shields.io/github/actions/workflow/status/jeironpro/jeironpro/actualizar-perfil.yml?branch=main&amp;style=flat-square&amp;label=perfil&amp;labelColor=0D1117" alt="Estado de la actualización automática" /></a></p>
 
 ---
 
