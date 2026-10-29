@@ -7,17 +7,14 @@
 <br />
 
 <div align="center">
-
-**Backend developer en formación · Python · APIs REST · Bases de datos**
-
-Construyo software mantenible: código claro, APIs documentadas y proyectos que llegan a producción.
-
-<br />
-
-<a href="#proyectos-destacados"><img src="https://img.shields.io/badge/Ver%20proyectos-238636?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Proyectos destacados" /></a>
-<a href="#stack-tecnológico"><img src="https://img.shields.io/badge/Stack-Python%20%2F%20Java-238636?style=for-the-badge&labelColor=0D1117&logo=python&logoColor=white" alt="Stack tecnológico" /></a>
-<a href="#contacto"><img src="https://img.shields.io/badge/Contacto-Disponible-238636?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white" alt="Contacto" /></a>
-
+  <p><strong>Backend developer en formación · Python · APIs REST · Bases de datos</strong></p>
+  <p>Construyo software mantenible: código claro, APIs documentadas y proyectos que llegan a producción.</p>
+  <p><strong>13</strong> repositorios públicos &nbsp;·&nbsp; <strong>2</strong> paquetes en PyPI &nbsp;·&nbsp; <strong>56</strong> sitios desplegados</p>
+  <p>
+    <a href="#proyectos-destacados"><img src="https://img.shields.io/badge/Ver%20proyectos-238636?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Proyectos destacados" /></a>
+    <a href="#stack-tecnológico"><img src="https://img.shields.io/badge/Stack-Python%20%2F%20Java-238636?style=for-the-badge&labelColor=0D1117&logo=python&logoColor=white" alt="Stack tecnológico" /></a>
+    <a href="#contacto"><img src="https://img.shields.io/badge/Contacto-Disponible-238636?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white" alt="Contacto" /></a>
+  </p>
 </div>
 
 ---
@@ -70,7 +67,7 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
       <a href="https://jeironpro.github.io/pulsar/"><img src="assets/proyectos/pulsar.png" alt="Pulsar: explicación del formato .psr con ejemplo de bloque de datos" width="100%" /></a>
       <h3><a href="https://github.com/jeironpro/pulsar">pulsar</a></h3>
       <p>Formato de datos jerárquico y legible por humanos (<code>.psr</code>) creado desde cero, con especificación, parser y serializer propios. No deriva de JSON ni YAML.</p>
-      <p><code>Python</code> <code>Parser</code> <code>Especificación</code></p>
+      <p><code>Python</code> <code>Parser</code> <code>Especificación</code> <img src="https://img.shields.io/pypi/v/pulsar-psr?style=flat-square&label=pypi&color=238636&labelColor=0D1117" alt="Última versión de pulsar-psr en PyPI" /></p>
       <p><a href="https://jeironpro.github.io/pulsar/"><strong>Demo</strong></a> · <a href="https://github.com/jeironpro/pulsar">Código</a></p>
     </td>
   </tr>
@@ -79,7 +76,7 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
       <a href="https://jeironpro.github.io/diagram-db/"><img src="assets/proyectos/diagram-db.png" alt="diagram-db: diagrama entidad-relación generado desde un spec en Markdown" width="100%" /></a>
       <h3><a href="https://github.com/jeironpro/diagram-db">diagram-db</a></h3>
       <p>Herramienta de línea de comandos que lee un spec en Markdown y dibuja el diagrama entidad‑relación, con validación del modelo, diagnósticos y playground web.</p>
-      <p><code>Python</code> <code>CLI</code> <code>PyPI</code></p>
+      <p><code>Python</code> <code>CLI</code> <code>PyPI</code> <img src="https://img.shields.io/pypi/v/diagram-db?style=flat-square&label=pypi&color=238636&labelColor=0D1117" alt="Última versión de diagram-db en PyPI" /></p>
       <p><a href="https://jeironpro.github.io/diagram-db/"><strong>Demo</strong></a> · <a href="https://pypi.org/project/diagram-db/">PyPI</a> · <a href="https://github.com/jeironpro/diagram-db">Código</a></p>
     </td>
     <td width="50%">
@@ -100,25 +97,38 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
 | **[Nexus-Inventory](https://github.com/jeironpro/Nexus-Inventory)** | Sistema de gestión de inventario con API REST, autenticación JWT, frontend propio, contenedores y monitorización de errores. Proyecto en equipo de 3 personas. | `Django` `PostgreSQL` `Docker` `Sentry` |
 | **[repo-crafter](https://github.com/jeironpro/repo-crafter)** | Gestor de repositorios de GitHub desde una interfaz web: crear, clonar, renombrar, cambiar visibilidad, administrar Pages y topics, y sincronizar con git. | `Python` `Flask` `GitHub API` |
 
-> Hay más repositorios públicos, entre ellos los sistemas de inventario desarrollados con Flask y Django. El índice completo está en [github.com/jeironpro?tab=repositories](https://github.com/jeironpro?tab=repositories).
+<details>
+<summary><strong>Índice completo de repositorios</strong> (13 públicos)</summary>
+
+| Repositorio | Descripción | Stack |
+| :--- | :--- | :--- |
+| [diagram-db](https://github.com/jeironpro/diagram-db) | CLI que genera diagramas entidad‑relación desde un spec en Markdown; publicada en PyPI. | `Python` |
+| [pulsar](https://github.com/jeironpro/pulsar) | Especificación, parser y serializer del formato de datos `.psr`, publicados en PyPI como `pulsar-psr`. | `Python` |
+| [api-gestor-asistencias](https://github.com/jeironpro/api-gestor-asistencias) | API REST de asistencias escolares con JWT por roles, multi‑institución y webhooks. | `Python` `PostgreSQL` |
+| [Nexus-Inventory](https://github.com/jeironpro/Nexus-Inventory) | Inventario con API REST, frontend propio, contenedores y monitorización. | `Django` `Docker` `Sentry` |
+| [repo-crafter](https://github.com/jeironpro/repo-crafter) | Automatización de repositorios de GitHub desde una interfaz web. | `Python` `Flask` |
+| [webs](https://github.com/jeironpro/webs) | Monorepo con 56 sitios estáticos y catálogo de despliegue. | `React` `GitHub Pages` |
+| [portafolio-jeironpro](https://github.com/jeironpro/portafolio-jeironpro) | Portafolio personal con fondo 3D y glassmorphism. | `React` `Three.js` |
+| [marcadores](https://github.com/jeironpro/marcadores) | Gestor de enlaces con 305 marcadores en 13 categorías, búsqueda instantánea y atajos de teclado. | `JavaScript` |
+| [link-in-bio](https://github.com/jeironpro/link-in-bio) | Página de enlaces responsive, sin dependencias. | `HTML` `CSS` |
+| [alpha-inventory-django](https://github.com/jeironpro/alpha-inventory-django) | Gestión de inventario con compras, ventas y movimientos por usuario. | `Django` `MySQL` |
+| [alpha-inventory-flask](https://github.com/jeironpro/alpha-inventory-flask) | Misma lógica de inventario implementada sobre Flask. | `Flask` `MySQL` |
+| [introprg](https://github.com/jeironpro/introprg) | Ejercicios de programación (archivado). | `Java` |
+| [jeironpro](https://github.com/jeironpro/jeironpro) | Este perfil. | `Markdown` |
+
+</details>
 
 ---
 
 ## Estadísticas
 
 <div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=jeironpro&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" alt="Estadísticas de GitHub de Jeiron Espinal" />
-<img height="165" src="https://streak-stats.demolab.com/?user=jeironpro&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=3FB950&fire=3FB950&currStreakNum=C9D1D9&currStreakLabel=3FB950&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Racha de contribuciones de Jeiron Espinal" />
-
-<br /><br />
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jeironpro&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" alt="Lenguajes más usados en repositorios públicos" />
-
-<br />
-
-<sub>Los lenguajes reflejan el código público, no el nivel de experiencia.</sub>
-
+  <p>
+    <img height="130" src="https://github-stats-extended.vercel.app/api?username=jeironpro&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" alt="Estadísticas de GitHub de Jeiron Espinal" />
+    <img height="130" src="https://streak-stats.demolab.com/?user=jeironpro&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=3FB950&fire=3FB950&currStreakNum=C9D1D9&currStreakLabel=3FB950&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Racha de contribuciones de Jeiron Espinal" />
+  </p>
+  <p><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jeironpro&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" alt="Lenguajes más usados en repositorios públicos" /></p>
+  <p><sub>Los lenguajes reflejan el código público, no el nivel de experiencia.</sub></p>
 </div>
 
 ---
@@ -145,17 +155,14 @@ interesado_en:
 ## Contacto
 
 <div align="center">
-
-<a href="https://linkedin.com/in/jeironpro"><img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/jeironpro"><img src="https://img.shields.io/badge/GitHub-238636?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://instagram.com/jeironpro"><img src="https://img.shields.io/badge/Instagram-238636?style=for-the-badge&labelColor=0D1117&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://threads.com/jeironpro"><img src="https://img.shields.io/badge/Threads-238636?style=for-the-badge&labelColor=0D1117&logo=threads&logoColor=white" alt="Threads" /></a>
-<a href="https://jeironpro.github.io/link-in-bio/"><img src="https://img.shields.io/badge/Todos%20mis%20enlaces-238636?style=for-the-badge&labelColor=0D1117&logo=linktree&logoColor=white" alt="Todos mis enlaces" /></a>
-
-<br /><br />
-
-La vía más rápida para hablar de trabajo o colaboraciones es **LinkedIn**.
-
+  <p>
+    <a href="https://linkedin.com/in/jeironpro"><img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/jeironpro"><img src="https://img.shields.io/badge/GitHub-238636?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://instagram.com/jeironpro"><img src="https://img.shields.io/badge/Instagram-238636?style=for-the-badge&labelColor=0D1117&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://threads.com/jeironpro"><img src="https://img.shields.io/badge/Threads-238636?style=for-the-badge&labelColor=0D1117&logo=threads&logoColor=white" alt="Threads" /></a>
+    <a href="https://jeironpro.github.io/link-in-bio/"><img src="https://img.shields.io/badge/Todos%20mis%20enlaces-238636?style=for-the-badge&labelColor=0D1117&logo=linktree&logoColor=white" alt="Todos mis enlaces" /></a>
+  </p>
+  <p>La vía más rápida para hablar de trabajo o colaboraciones es <strong>LinkedIn</strong>.</p>
 </div>
 
 ---
