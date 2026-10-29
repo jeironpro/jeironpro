@@ -9,7 +9,9 @@
 <div align="center">
   <p><strong>Backend developer en formación · Python · APIs REST · Bases de datos</strong></p>
   <p>Construyo software mantenible: código claro, APIs documentadas y proyectos que llegan a producción.</p>
+  <!-- CIFRAS:INICIO -->
   <p><strong>13</strong> repositorios públicos &nbsp;·&nbsp; <strong>2</strong> paquetes en PyPI &nbsp;·&nbsp; <strong>56</strong> sitios desplegados</p>
+  <!-- CIFRAS:FIN -->
   <p>
     <a href="#proyectos-destacados"><img src="https://img.shields.io/badge/Ver%20proyectos-238636?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Proyectos destacados" /></a>
     <a href="#stack-tecnológico"><img src="https://img.shields.io/badge/Stack-Python%20%2F%20Java-238636?style=for-the-badge&labelColor=0D1117&logo=python&logoColor=white" alt="Stack tecnológico" /></a>
@@ -98,7 +100,7 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
 | **[repo-crafter](https://github.com/jeironpro/repo-crafter)** | Gestor de repositorios de GitHub desde una interfaz web: crear, clonar, renombrar, cambiar visibilidad, administrar Pages y topics, y sincronizar con git. | `Python` `Flask` `GitHub API` |
 
 <details>
-<summary><strong>Índice completo de repositorios</strong> (13 públicos)</summary>
+<summary><strong>Índice completo de repositorios públicos</strong></summary>
 
 | Repositorio | Descripción | Stack |
 | :--- | :--- | :--- |
@@ -117,6 +119,20 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
 | [jeironpro](https://github.com/jeironpro/jeironpro) | Este perfil. | `Markdown` |
 
 </details>
+
+---
+
+## Actividad reciente
+
+<!-- ACTIVIDAD:INICIO -->
+- [diagram-db](https://github.com/jeironpro/diagram-db) · pull request #3 fusionado · 29 oct
+- [marcadores](https://github.com/jeironpro/marcadores) · push en `main` · 5 oct
+- [jeironpro](https://github.com/jeironpro/jeironpro) · repositorio actualizado · 29 oct
+- [webs](https://github.com/jeironpro/webs) · repositorio actualizado · 27 sep
+- [repo-crafter](https://github.com/jeironpro/repo-crafter) · repositorio actualizado · 25 sep
+<!-- ACTIVIDAD:FIN -->
+
+<p><sub>Actualizado automáticamente con GitHub Actions.</sub>&nbsp; <a href="https://github.com/jeironpro/jeironpro/actions/workflows/actualizar-perfil.yml"><img src="https://img.shields.io/github/actions/workflow/status/jeironpro/jeironpro/actualizar-perfil.yml?branch=main&style=flat-square&label=perfil&labelColor=0D1117" alt="Estado de la actualización automática" /></a></p>
 
 ---
 
@@ -170,7 +186,3 @@ interesado_en:
 ## Nota sobre este perfil
 
 Algunos repositorios no conservan su historial original: provienen de una cuenta anterior que eliminé y tuve que volver a publicar aquí. Para no repetir ese problema, la publicación y administración de los repositorios está automatizada con **[repo-crafter](https://github.com/jeironpro/repo-crafter)**, una herramienta propia que gestiona visibilidad, metadatos y despliegues desde una sola interfaz.
-
-<div align="center">
-  <sub>Última actualización: octubre de 2026</sub>
-</div>

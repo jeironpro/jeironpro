@@ -1,0 +1,52 @@
+name: Actualizar perfil
+
+on:
+  schedule:
+    # Cada día a las 06:00 UTC. GitHub puede retrasar la ejecución unos minutos.
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-perfil
+  cancel-in-progress: true
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerar cifras y actividad
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/actualizar_perfil.py
+
+      - name: Confirmar los cambios
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "El README ya está al día."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Actualiza cifras y actividad del perfil"
+          for intento in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "El push falló (intento $intento); reintentando sobre la última versión."
+            sleep 5
+            git pull --rebase --autostash
+          done
+          echo "No se pudo publicar el cambio tras tres intentos." >&2
+          exit 1
