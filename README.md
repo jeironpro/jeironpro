@@ -57,14 +57,48 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
 
 ## Proyectos destacados
 
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://jeironpro.github.io/webs/"><img src="assets/proyectos/webs.png" alt="Catálogo webs: buscador, filtros por categoría y tarjetas de proyecto" width="100%" /></a>
+      <h3><a href="https://github.com/jeironpro/webs">webs</a></h3>
+      <p>Monorepo de 56 sitios estáticos —ejercicios, cursos, herramientas y experimentos— con un catálogo que los indexa, filtra y despliega en GitHub Pages.</p>
+      <p><code>React</code> <code>JavaScript</code> <code>GitHub Pages</code></p>
+      <p><a href="https://jeironpro.github.io/webs/"><strong>Demo</strong></a> · <a href="https://github.com/jeironpro/webs">Código</a></p>
+    </td>
+    <td width="50%">
+      <a href="https://jeironpro.github.io/pulsar/"><img src="assets/proyectos/pulsar.png" alt="Pulsar: explicación del formato .psr con ejemplo de bloque de datos" width="100%" /></a>
+      <h3><a href="https://github.com/jeironpro/pulsar">pulsar</a></h3>
+      <p>Formato de datos jerárquico y legible por humanos (<code>.psr</code>) creado desde cero, con especificación, parser y serializer propios. No deriva de JSON ni YAML.</p>
+      <p><code>Python</code> <code>Parser</code> <code>Especificación</code></p>
+      <p><a href="https://jeironpro.github.io/pulsar/"><strong>Demo</strong></a> · <a href="https://github.com/jeironpro/pulsar">Código</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://jeironpro.github.io/diagram-db/"><img src="assets/proyectos/diagram-db.png" alt="diagram-db: diagrama entidad-relación generado desde un spec en Markdown" width="100%" /></a>
+      <h3><a href="https://github.com/jeironpro/diagram-db">diagram-db</a></h3>
+      <p>Herramienta de línea de comandos que lee un spec en Markdown y dibuja el diagrama entidad‑relación, con validación del modelo, diagnósticos y playground web.</p>
+      <p><code>Python</code> <code>CLI</code> <code>PyPI</code></p>
+      <p><a href="https://jeironpro.github.io/diagram-db/"><strong>Demo</strong></a> · <a href="https://pypi.org/project/diagram-db/">PyPI</a> · <a href="https://github.com/jeironpro/diagram-db">Código</a></p>
+    </td>
+    <td width="50%">
+      <a href="https://portafolio-jeironpro.pages.dev/"><img src="assets/proyectos/portafolio.png" alt="Portafolio personal: sección de trabajos seleccionados con tema oscuro" width="100%" /></a>
+      <h3><a href="https://github.com/jeironpro/portafolio-jeironpro">portafolio-jeironpro</a></h3>
+      <p>Portafolio personal con tema oscuro, fondo 3D de partículas que reacciona al scroll y glassmorphism. Secciones, datos y tokens de diseño configurables desde un archivo.</p>
+      <p><code>React</code> <code>Three.js</code> <code>Frontend</code></p>
+      <p><a href="https://portafolio-jeironpro.pages.dev/"><strong>Demo</strong></a> · <a href="https://github.com/jeironpro/portafolio-jeironpro">Código</a></p>
+    </td>
+  </tr>
+</table>
+
+### Backend y herramientas
+
 | Proyecto | Qué resuelve | Stack |
 | :--- | :--- | :--- |
-| **[diagram-db](https://github.com/jeironpro/diagram-db)** | Herramienta de línea de comandos que genera diagramas entidad‑relación a partir de un archivo Markdown. Publicada como paquete en PyPI. | `Python` `CLI` `PyPI` |
 | **[api-gestor-asistencias](https://github.com/jeironpro/api-gestor-asistencias)** | API REST para gestionar estudiantes, profesores, clases y asistencias: JWT por roles, soporte multi‑institución, auditoría, webhooks e importación masiva. | `Python` `PostgreSQL` `Clean Architecture` |
 | **[Nexus-Inventory](https://github.com/jeironpro/Nexus-Inventory)** | Sistema de gestión de inventario con API REST, autenticación JWT, frontend propio, contenedores y monitorización de errores. Proyecto en equipo de 3 personas. | `Django` `PostgreSQL` `Docker` `Sentry` |
 | **[repo-crafter](https://github.com/jeironpro/repo-crafter)** | Gestor de repositorios de GitHub desde una interfaz web: crear, clonar, renombrar, cambiar visibilidad, administrar Pages y topics, y sincronizar con git. | `Python` `Flask` `GitHub API` |
-| **[pulsar](https://github.com/jeironpro/pulsar)** | Especificación y librería de un formato de datos estructurado y jerárquico creado desde cero, con parser y serializer propios. | `Python` `Parser` `Specification` |
-| **[webs](https://github.com/jeironpro/webs)** | Monorepo de 56 sitios estáticos con catálogo raíz que indexa, filtra y despliega cada proyecto en GitHub Pages. | `React` `JavaScript` `GitHub Pages` |
 
 > Hay más repositorios públicos, entre ellos los sistemas de inventario desarrollados con Flask y Django. El índice completo está en [github.com/jeironpro?tab=repositories](https://github.com/jeironpro?tab=repositories).
 
