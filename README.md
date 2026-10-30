@@ -10,7 +10,7 @@
   <p><strong>Backend developer en formación · Python · APIs REST · Bases de datos</strong></p>
   <p>Construyo software mantenible: código claro, APIs documentadas y proyectos que llegan a producción.</p>
   <!-- CIFRAS:INICIO -->
-  <p><strong>13</strong> repositorios públicos &nbsp;·&nbsp; <strong>2</strong> paquetes en PyPI &nbsp;·&nbsp; <strong>56</strong> sitios desplegados</p>
+  <p><strong>11</strong> repositorios públicos &nbsp;·&nbsp; <strong>2</strong> paquetes en PyPI &nbsp;·&nbsp; <strong>56</strong> sitios desplegados</p>
   <!-- CIFRAS:FIN -->
   <p>
     <a href="#proyectos-destacados"><img src="https://img.shields.io/badge/Ver%20proyectos-238636?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Proyectos destacados" /></a>
@@ -123,11 +123,11 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
 ## Actividad reciente
 
 <!-- ACTIVIDAD:INICIO -->
-- [diagram-db](https://github.com/jeironpro/diagram-db) · rama `ci/pipelines` · 29 oct
-- [diagram-db](https://github.com/jeironpro/diagram-db) · push en `main` · 29 oct
-- [diagram-db](https://github.com/jeironpro/diagram-db) · pull request #3 fusionado · 29 oct
+- [python-packages](https://github.com/jeironpro/python-packages) · pull request #8 fusionado · 30 oct
 - [marcadores](https://github.com/jeironpro/marcadores) · push en `main` · 5 oct
+- [jeironpro](https://github.com/jeironpro/jeironpro) · repositorio actualizado · 30 oct
 - [portfolio](https://github.com/jeironpro/portfolio) · repositorio actualizado · 30 oct
+- [webs](https://github.com/jeironpro/webs) · repositorio actualizado · 27 sep
 <!-- ACTIVIDAD:FIN -->
 
 <p><sub>Actualizado automáticamente con GitHub Actions.</sub>&nbsp;
