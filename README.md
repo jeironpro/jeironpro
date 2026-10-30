@@ -125,11 +125,11 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
 ## Actividad reciente
 
 <!-- ACTIVIDAD:INICIO -->
+- [diagram-db](https://github.com/jeironpro/diagram-db) · rama `ci/pipelines` · 29 oct
+- [diagram-db](https://github.com/jeironpro/diagram-db) · push en `main` · 29 oct
 - [diagram-db](https://github.com/jeironpro/diagram-db) · pull request #3 fusionado · 29 oct
 - [marcadores](https://github.com/jeironpro/marcadores) · push en `main` · 5 oct
-- [jeironpro](https://github.com/jeironpro/jeironpro) · repositorio actualizado · 29 oct
-- [webs](https://github.com/jeironpro/webs) · repositorio actualizado · 27 sep
-- [repo-crafter](https://github.com/jeironpro/repo-crafter) · repositorio actualizado · 25 sep
+- [portfolio](https://github.com/jeironpro/portfolio) · repositorio actualizado · 30 oct
 <!-- ACTIVIDAD:FIN -->
 
 <p><sub>Actualizado automáticamente con GitHub Actions.</sub>&nbsp;
