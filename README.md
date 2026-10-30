@@ -66,8 +66,8 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
       <p><a href="https://jeironpro.github.io/webs/"><strong>Demo</strong></a> · <a href="https://github.com/jeironpro/webs">Código</a></p>
     </td>
     <td width="50%">
-      <a href="https://jeironpro.github.io/pulsar/"><img src="assets/proyectos/pulsar.png" alt="Pulsar: explicación del formato .psr con ejemplo de bloque de datos" width="100%" /></a>
-      <h3><a href="https://github.com/jeironpro/pulsar">pulsar</a></h3>
+      <a href="https://jeironpro.github.io/python-packages/pulsar/"><img src="assets/proyectos/pulsar.png" alt="Pulsar: explicación del formato .psr con ejemplo de bloque de datos" width="100%" /></a>
+      <h3><a href="https://github.com/jeironpro/python-packages/tree/main/packages/pulsar">pulsar</a></h3>
       <p>Formato de datos jerárquico y legible por humanos (<code>.psr</code>) creado desde cero, con especificación, parser y serializer propios. No deriva de JSON ni YAML.</p>
       <p><code>Python</code> <code>Parser</code> <code>Especificación</code> <img src="https://img.shields.io/pypi/v/pulsar-psr?style=flat-square&label=pypi&color=238636&labelColor=0D1117" alt="Última versión de pulsar-psr en PyPI" /></p>
       <p><a href="https://jeironpro.github.io/pulsar/"><strong>Demo</strong></a> · <a href="https://github.com/jeironpro/pulsar">Código</a></p>
@@ -75,8 +75,8 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://jeironpro.github.io/diagram-db/"><img src="assets/proyectos/diagram-db.png" alt="diagram-db: diagrama entidad-relación generado desde un spec en Markdown" width="100%" /></a>
-      <h3><a href="https://github.com/jeironpro/diagram-db">diagram-db</a></h3>
+      <a href="https://jeironpro.github.io/python-packages/diagram-db/"><img src="assets/proyectos/diagram-db.png" alt="diagram-db: diagrama entidad-relación generado desde un spec en Markdown" width="100%" /></a>
+      <h3><a href="https://github.com/jeironpro/python-packages/tree/main/packages/diagram-db">diagram-db</a></h3>
       <p>Herramienta de línea de comandos que lee un spec en Markdown y dibuja el diagrama entidad‑relación, con validación del modelo, diagnósticos y playground web.</p>
       <p><code>Python</code> <code>CLI</code> <code>PyPI</code> <img src="https://img.shields.io/pypi/v/diagram-db?style=flat-square&label=pypi&color=238636&labelColor=0D1117" alt="Última versión de diagram-db en PyPI" /></p>
       <p><a href="https://jeironpro.github.io/diagram-db/"><strong>Demo</strong></a> · <a href="https://pypi.org/project/diagram-db/">PyPI</a> · <a href="https://github.com/jeironpro/diagram-db">Código</a></p>
