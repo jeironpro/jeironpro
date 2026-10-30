@@ -110,7 +110,6 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
 | [repo-crafter](https://github.com/jeironpro/repo-crafter) | Automatización de repositorios de GitHub desde una interfaz web. | `Python` `Flask` |
 | [webs](https://github.com/jeironpro/webs) | Monorepo con 56 sitios estáticos y catálogo de despliegue. | `React` `GitHub Pages` |
 | [portafolio-jeironpro](https://github.com/jeironpro/portafolio-jeironpro) | Portafolio personal con fondo 3D y glassmorphism. | `React` `Three.js` |
-| [marcadores](https://github.com/jeironpro/marcadores) | Gestor de enlaces con 305 marcadores en 13 categorías, búsqueda instantánea y atajos de teclado. | `JavaScript` |
 | [alpha-inventory-django](https://github.com/jeironpro/alpha-inventory-django) | Gestión de inventario con compras, ventas y movimientos por usuario. | `Django` `MySQL` |
 | [alpha-inventory-flask](https://github.com/jeironpro/alpha-inventory-flask) | Misma lógica de inventario implementada sobre Flask. | `Flask` `MySQL` |
 | [introprg](https://github.com/jeironpro/introprg) | Ejercicios de programación (archivado). | `Java` |
