@@ -104,15 +104,13 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
 
 | Repositorio | Descripción | Stack |
 | :--- | :--- | :--- |
-| [diagram-db](https://github.com/jeironpro/diagram-db) | CLI que genera diagramas entidad‑relación desde un spec en Markdown; publicada en PyPI. | `Python` |
-| [pulsar](https://github.com/jeironpro/pulsar) | Especificación, parser y serializer del formato de datos `.psr`, publicados en PyPI como `pulsar-psr`. | `Python` |
+| [python-packages](https://github.com/jeironpro/python-packages) | Monorepo de paquetes Python cada uno con su pyproject, versión por tag, tests, CLI y publicación en PyPI; CI selectiva, Issues compartidas y un catálogo con todas las landings. | `Python` `Landing` |
 | [api-gestor-asistencias](https://github.com/jeironpro/api-gestor-asistencias) | API REST de asistencias escolares con JWT por roles, multi‑institución y webhooks. | `Python` `PostgreSQL` |
 | [Nexus-Inventory](https://github.com/jeironpro/Nexus-Inventory) | Inventario con API REST, frontend propio, contenedores y monitorización. | `Django` `Docker` `Sentry` |
 | [repo-crafter](https://github.com/jeironpro/repo-crafter) | Automatización de repositorios de GitHub desde una interfaz web. | `Python` `Flask` |
 | [webs](https://github.com/jeironpro/webs) | Monorepo con 56 sitios estáticos y catálogo de despliegue. | `React` `GitHub Pages` |
 | [portafolio-jeironpro](https://github.com/jeironpro/portafolio-jeironpro) | Portafolio personal con fondo 3D y glassmorphism. | `React` `Three.js` |
 | [marcadores](https://github.com/jeironpro/marcadores) | Gestor de enlaces con 305 marcadores en 13 categorías, búsqueda instantánea y atajos de teclado. | `JavaScript` |
-| [link-in-bio](https://github.com/jeironpro/link-in-bio) | Página de enlaces responsive, sin dependencias. | `HTML` `CSS` |
 | [alpha-inventory-django](https://github.com/jeironpro/alpha-inventory-django) | Gestión de inventario con compras, ventas y movimientos por usuario. | `Django` `MySQL` |
 | [alpha-inventory-flask](https://github.com/jeironpro/alpha-inventory-flask) | Misma lógica de inventario implementada sobre Flask. | `Flask` `MySQL` |
 | [introprg](https://github.com/jeironpro/introprg) | Ejercicios de programación (archivado). | `Java` |
@@ -177,7 +175,8 @@ interesado_en:
     <a href="https://github.com/jeironpro"><img src="https://img.shields.io/badge/GitHub-238636?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://instagram.com/jeironpro"><img src="https://img.shields.io/badge/Instagram-238636?style=for-the-badge&labelColor=0D1117&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="https://threads.com/jeironpro"><img src="https://img.shields.io/badge/Threads-238636?style=for-the-badge&labelColor=0D1117&logo=threads&logoColor=white" alt="Threads" /></a>
-    <a href="https://jeironpro.github.io/link-in-bio/"><img src="https://img.shields.io/badge/Todos%20mis%20enlaces-238636?style=for-the-badge&labelColor=0D1117&logo=linktree&logoColor=white" alt="Todos mis enlaces" /></a>
+    <a href="https://facebook.com/jeironpro"><img src="https://img.shields.io/badge/Facebook-238636?style=for-the-badge&labelColor=0D1117&logo=linktree&logoColor=white" alt="Facebook" /></a>
+    <a href="https://tiktok.com/@jeironpro"><img src="https://img.shields.io/badge/TikTok-238636?style=for-the-badge&labelColor=0D1117&logo=linktree&logoColor=white" alt="TikTok" /></a>
   </p>
   <p>La vía más rápida para hablar de trabajo o colaboraciones es <strong>LinkedIn</strong>.</p>
 </div>
