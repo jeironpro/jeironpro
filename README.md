@@ -122,11 +122,11 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
 ## Actividad reciente
 
 <!-- ACTIVIDAD:INICIO -->
+- [portfolio](https://github.com/jeironpro/portfolio) · push en `main` · 29 oct
+- [portfolio](https://github.com/jeironpro/portfolio) · rama `main` · 29 oct
 - [jeironpro](https://github.com/jeironpro/jeironpro) · push en `main` · 29 oct
 - [python-packages](https://github.com/jeironpro/python-packages) · pull request #8 fusionado · 30 oct
-- [portfolio](https://github.com/jeironpro/portfolio) · repositorio actualizado · 30 oct
 - [webs](https://github.com/jeironpro/webs) · repositorio actualizado · 27 sep
-- [repo-crafter](https://github.com/jeironpro/repo-crafter) · repositorio actualizado · 25 sep
 <!-- ACTIVIDAD:FIN -->
 
 <p><sub>Actualizado automáticamente con GitHub Actions.</sub>&nbsp;
