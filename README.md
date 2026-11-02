@@ -174,8 +174,8 @@ interesado_en:
     <a href="https://github.com/jeironpro"><img src="https://img.shields.io/badge/GitHub-238636?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://instagram.com/jeironpro"><img src="https://img.shields.io/badge/Instagram-238636?style=for-the-badge&labelColor=0D1117&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="https://threads.com/jeironpro"><img src="https://img.shields.io/badge/Threads-238636?style=for-the-badge&labelColor=0D1117&logo=threads&logoColor=white" alt="Threads" /></a>
-    <a href="https://facebook.com/jeironpro"><img src="https://img.shields.io/badge/Facebook-238636?style=for-the-badge&labelColor=0D1117&logo=linktree&logoColor=white" alt="Facebook" /></a>
-    <a href="https://tiktok.com/@jeironpro"><img src="https://img.shields.io/badge/TikTok-238636?style=for-the-badge&labelColor=0D1117&logo=linktree&logoColor=white" alt="TikTok" /></a>
+    <a href="https://facebook.com/jeironpro"><img src="https://img.shields.io/badge/Facebook-238636?style=for-the-badge&labelColor=0D1117&logo=facebook&logoColor=white" alt="Facebook" /></a>
+    <a href="https://tiktok.com/@jeironpro"><img src="https://img.shields.io/badge/TikTok-238636?style=for-the-badge&labelColor=0D1117&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   </p>
   <p>La vía más rápida para hablar de trabajo o colaboraciones es <strong>LinkedIn</strong>.</p>
 </div>
