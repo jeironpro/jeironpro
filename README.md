@@ -122,10 +122,10 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
 ## Actividad reciente
 
 <!-- ACTIVIDAD:INICIO -->
-- [webs](https://github.com/jeironpro/webs) · push en `main` · 9 nov
-- [webs](https://github.com/jeironpro/webs) · rama `feature/sopa-letras-redesign` · 10 nov
-- [webs](https://github.com/jeironpro/webs) · pull request #85 fusionado · 10 nov
-- [jeironpro](https://github.com/jeironpro/jeironpro) · repositorio actualizado · 9 nov
+- [webs](https://github.com/jeironpro/webs) · push en `main` · 10 nov
+- [webs](https://github.com/jeironpro/webs) · pull request #113 fusionado · 11 nov
+- [webs](https://github.com/jeironpro/webs) · rama `migracion/juego-yatzy` · 10 nov
+- [jeironpro](https://github.com/jeironpro/jeironpro) · repositorio actualizado · 10 nov
 - [portfolio](https://github.com/jeironpro/portfolio) · repositorio actualizado · 30 oct
 <!-- ACTIVIDAD:FIN -->
 
