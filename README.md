@@ -10,7 +10,7 @@
   <p><strong>Backend developer en formación · Python · APIs REST · Bases de datos</strong></p>
   <p>Construyo software mantenible: código claro, APIs documentadas y proyectos que llegan a producción.</p>
   <!-- CIFRAS:INICIO -->
-  <p><strong>10</strong> repositorios públicos &nbsp;·&nbsp; <strong>2</strong> paquetes en PyPI &nbsp;·&nbsp; <strong>56</strong> sitios desplegados</p>
+  <p><strong>10</strong> repositorios públicos &nbsp;·&nbsp; <strong>2</strong> paquetes en PyPI &nbsp;·&nbsp; <strong>55</strong> sitios desplegados</p>
   <!-- CIFRAS:FIN -->
   <p>
     <a href="#proyectos-destacados"><img src="https://img.shields.io/badge/Ver%20proyectos-238636?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Proyectos destacados" /></a>
@@ -122,10 +122,10 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
 ## Actividad reciente
 
 <!-- ACTIVIDAD:INICIO -->
-- [webs](https://github.com/jeironpro/webs) · push en `main` · 10 nov
-- [webs](https://github.com/jeironpro/webs) · pull request #113 fusionado · 11 nov
-- [webs](https://github.com/jeironpro/webs) · rama `migracion/juego-yatzy` · 10 nov
-- [jeironpro](https://github.com/jeironpro/jeironpro) · repositorio actualizado · 10 nov
+- [webs](https://github.com/jeironpro/webs) · rama `refactor/web-generador-cv` · 11 nov
+- [webs](https://github.com/jeironpro/webs) · push en `main` · 11 nov
+- [webs](https://github.com/jeironpro/webs) · pull request #171 abierto · 12 nov
+- [jeironpro](https://github.com/jeironpro/jeironpro) · repositorio actualizado · 11 nov
 - [portfolio](https://github.com/jeironpro/portfolio) · repositorio actualizado · 30 oct
 <!-- ACTIVIDAD:FIN -->
 
