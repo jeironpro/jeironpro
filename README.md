@@ -122,10 +122,10 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
 ## Actividad reciente
 
 <!-- ACTIVIDAD:INICIO -->
-- [webs](https://github.com/jeironpro/webs) · pull request #195 fusionado · 16 nov
-- [webs](https://github.com/jeironpro/webs) · push en `normaliza-25-webs-pendientes` · 14 nov
-- [webs](https://github.com/jeironpro/webs) · rama `feature/web-timestamp` · 16 nov
-- [jeironpro](https://github.com/jeironpro/jeironpro) · repositorio actualizado · 15 nov
+- [webs](https://github.com/jeironpro/webs) · push en `main` · 16 nov
+- [webs](https://github.com/jeironpro/webs) · rama `feature/markdown` · 16 nov
+- [webs](https://github.com/jeironpro/webs) · pull request #197 fusionado · 16 nov
+- [jeironpro](https://github.com/jeironpro/jeironpro) · repositorio actualizado · 16 nov
 - [portfolio](https://github.com/jeironpro/portfolio) · repositorio actualizado · 30 oct
 <!-- ACTIVIDAD:FIN -->
 
