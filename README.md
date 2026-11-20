@@ -122,10 +122,10 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
 ## Actividad reciente
 
 <!-- ACTIVIDAD:INICIO -->
+- [webs](https://github.com/jeironpro/webs) · rama `fix/juegos-legibilidad-responsive` · 18 nov
 - [webs](https://github.com/jeironpro/webs) · push en `main` · 18 nov
 - [webs](https://github.com/jeironpro/webs) · pull request #198 fusionado · 18 nov
-- [webs](https://github.com/jeironpro/webs) · rama `feature/csv-ledger` · 16 nov
-- [jeironpro](https://github.com/jeironpro/jeironpro) · repositorio actualizado · 18 nov
+- [jeironpro](https://github.com/jeironpro/jeironpro) · repositorio actualizado · 19 nov
 - [portfolio](https://github.com/jeironpro/portfolio) · repositorio actualizado · 30 oct
 <!-- ACTIVIDAD:FIN -->
 
