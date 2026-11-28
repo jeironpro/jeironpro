@@ -122,10 +122,10 @@ Abierto a colaboraciones, prácticas y proyectos donde el backend tenga peso rea
 ## Actividad reciente
 
 <!-- ACTIVIDAD:INICIO -->
-- [webs](https://github.com/jeironpro/webs) · rama `fix/guia-cadena-dunk` · 27 nov
-- [webs](https://github.com/jeironpro/webs) · pull request #205 fusionado · 27 nov
+- [webs](https://github.com/jeironpro/webs) · pull request #208 fusionado · 28 nov
+- [webs](https://github.com/jeironpro/webs) · rama `feat/guia-gta-vi` · 27 nov
 - [webs](https://github.com/jeironpro/webs) · push en `main` · 18 nov
-- [jeironpro](https://github.com/jeironpro/jeironpro) · repositorio actualizado · 26 nov
+- [jeironpro](https://github.com/jeironpro/jeironpro) · repositorio actualizado · 27 nov
 - [portfolio](https://github.com/jeironpro/portfolio) · repositorio actualizado · 30 oct
 <!-- ACTIVIDAD:FIN -->
 
